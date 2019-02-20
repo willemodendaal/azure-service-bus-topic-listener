@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBusTopicListener", "ServiceBusTopicListener\ServiceBusTopicListener.csproj", "{3586EEFC-1D65-470B-B407-71D0ED2EEDEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3586EEFC-1D65-470B-B407-71D0ED2EEDEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3586EEFC-1D65-470B-B407-71D0ED2EEDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3586EEFC-1D65-470B-B407-71D0ED2EEDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3586EEFC-1D65-470B-B407-71D0ED2EEDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08CBFC09-8143-412B-8AC1-E59088D79499}
+	EndGlobalSection
+EndGlobal
